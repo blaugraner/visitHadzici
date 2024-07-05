@@ -1,0 +1,58 @@
+[
+  {
+    "eventName": "Igman Bike Tours",
+    "imageFile": "https://example.com/igman_bike_tours.jpg",
+    "description": "Igman Bike Tours offer an exciting outdoor adventure for cycling enthusiasts. Experience the beauty of Igman Mountain with guided tours that cater to different skill levels. Enjoy the stunning views, fresh air, and challenging trails.",
+    "time": "Every weekend in July and August",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Quad Tours Adventure",
+    "imageFile": "https://example.com/quad_tours_adventure.jpg",
+    "description": "Join us for an exhilarating quad tour through the rugged terrain of Hadžići. This adventure is perfect for thrill-seekers and nature lovers. Explore the scenic routes and enjoy the ride!",
+    "time": "Every Saturday from June to September",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Youth Games 2023",
+    "imageFile": "https://example.com/youth_games_2023.jpg",
+    "description": "Youth Games 2023 is a fun and competitive event for the youth of Hadžići. Participate in various sports and recreational activities, including athletics, basketball, volleyball, and more. Prizes and medals await the winners!",
+    "time": "15-20.7.2023.",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Football Tournament 2023",
+    "imageFile": "https://example.com/football_tournament_2023.jpg",
+    "description": "The annual Football Tournament in Hadžići brings together local teams to compete for the championship title. Join us for exciting matches, great sportsmanship, and a fantastic atmosphere.",
+    "time": "5-10.8.2023.",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Hadžići Summer Festival",
+    "imageFile": "https://example.com/hadzici_summer_festival.jpg",
+    "description": "Hadžići Summer Festival is a celebration of music, culture, and community. Enjoy live performances, food stalls, arts and crafts, and fun activities for all ages. A perfect way to spend the summer days with family and friends.",
+    "time": "1-3.7.2023.",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Exhibition Match: Fat vs Skinny",
+    "imageFile": "https://example.com/exhibition_match.jpg",
+    "description": "Don't miss the entertaining exhibition match 'Fat vs Skinny,' where local residents compete in a friendly and humorous football game. Cheer for your favorite team and enjoy the fun!",
+    "time": "20.7.2023.",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "eventName": "Cultural Societies Review",
+    "imageFile": "https://example.com/cultural_societies_review.jpg",
+    "description": "The Cultural Societies Review showcases the rich cultural heritage of Hadžići. Enjoy performances by local cultural societies, including traditional music, dance, and folklore. Celebrate the diversity and artistic talent of the community.",
+    "time": "10-12.8.2023.",
+    "price": "Free",
+    "location": "43.737064, 18.200084"
+  }
+]
