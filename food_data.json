@@ -1,7 +1,7 @@
 [
   {
     "foodName": "Caffe Macak",
-    "imageFile": "https://example.com/caffe_macak.jpg",
+    "imageFile": "https://img.freepik.com/free-photo/front-view-cup-cappuccino-with-cookies-book-table_141793-2825.jpg?t=st=1720197171~exp=1720200771~hmac=eb4e66e01667884ae89643bd9b11d03f51848d4c341050c9cd52df411e64b142&w=1060",
     "description": "A cozy cafe offering a variety of coffee drinks, pastries, and snacks. Enjoy a relaxing atmosphere with a warm and inviting ambiance. Perfect for a casual hangout or a quick coffee break.",
     "duration": "mon-sun(07-23)",
     "address": "Main Street 1, Hadžići",
@@ -10,7 +10,7 @@
   },
   {
     "foodName": "Domaca Hrana Lukomir",
-    "imageFile": "https://example.com/domaca_hrana_lukomir.jpg",
+    "imageFile": "https://img.freepik.com/free-photo/front-view-meat-pie-inside-pan-dark-background-pastry-bake-cake-biscuit-dough-color-food-oven-pies_179666-46981.jpg?t=st=1720197222~exp=1720200822~hmac=5137611987e8a0de446652f09bdfca36d6e9376f1df32d99bdb20fa775bf44e7&w=996",
     "description": "A restaurant serving traditional Bosnian cuisine with a focus on local ingredients and homemade dishes. Experience the authentic flavors of Hadžići and the surrounding region.",
     "duration": "mon-sun(09-22)",
     "address": "Lukomir 10, Hadžići",
@@ -19,7 +19,7 @@
   },
   {
     "foodName": "Pekara Igman",
-    "imageFile": "https://example.com/pekara_igman.jpg",
+    "imageFile": "https://img.freepik.com/free-photo/sweet-pastry-assortment-top-view_23-2148516578.jpg?t=st=1720196772~exp=1720200372~hmac=c6189bc58ae639f1c517a28be8b3a8368eea0a261f62dca38d06199ead6d7ce2&w=2000",
     "description": "A bakery offering a wide variety of freshly baked goods. From bread and pastries to local specialties, Pekara Igman has something for everyone.",
     "duration": "mon-sun(05-22:30)",
     "address": "Igman Street 5, Hadžići",
@@ -28,7 +28,7 @@
   },
   {
     "foodName": "Pekara AS",
-    "imageFile": "https://example.com/pekara_as.jpg",
+    "imageFile": "hhttps://img.freepik.com/free-photo/different-types-bread-made-from-wheat-flour_140725-5648.jpg?t=st=1720197271~exp=1720200871~hmac=579d858f45718af63f4b64d9b0e608d48d9744619355e00a1ab572e277d3f257&w=2000",
     "description": "Another popular bakery in Hadžići, known for its delicious pastries, bread, and other baked treats. A must-visit for anyone with a sweet tooth.",
     "duration": "mon-sun(06-23)",
     "address": "Hadželi 3, Hadžići",
@@ -37,7 +37,7 @@
   },
   {
     "foodName": "Restoran AS",
-    "imageFile": "https://example.com/restoran_as.jpg",
+    "imageFile": "https://img.freepik.com/free-photo/wine-glasses-set-table-part-inviting-dinner-setting_157027-4262.jpg?t=st=1720197305~exp=1720200905~hmac=0dcb0d3a4f9cf75971a2f278b8c85a6e26b1e7b0dda24d1c78a35cc6dedbf890&w=2000",
     "description": "A restaurant offering a mix of local and international dishes. Enjoy a meal in a comfortable setting, perfect for family gatherings or a night out with friends.",
     "duration": "mon-sun(10-23)",
     "address": "Magistralni put, Hadžići",
@@ -46,7 +46,7 @@
   },
   {
     "foodName": "Fast Food MB",
-    "imageFile": "https://example.com/fast_food_mb.jpg",
+    "imageFile": "https://img.freepik.com/free-photo/view-delicious-burger-with-french-fries_23-2150887950.jpg?t=st=1720197338~exp=1720200938~hmac=54d97927e900b6877276bfbf29f0b3ab06f82c1ba1960fda5ec408de3114b2e2&w=2000",
     "description": "A fast food joint offering a variety of quick and tasty meals. From burgers and fries to local fast food favorites, Fast Food MB is a great choice for a casual meal.",
     "duration": "mon-sun(09-21)",
     "address": "HADŽELI, Hadžići",
@@ -54,12 +54,12 @@
     "location": "43.823071, 18.210891"
   },
   {
-    "foodName": "Pekara Centar",
-    "imageFile": "https://example.com/pekara_centar.jpg",
-    "description": "A centrally located bakery offering a range of baked goods. Stop by for a quick snack or to pick up some fresh bread and pastries.",
+    "foodName": "Sweet Corner Centar",
+    "imageFile": "https://img.freepik.com/free-photo/portioned-honey-cake-served-with-tea_140725-5053.jpg?t=st=1720197389~exp=1720200989~hmac=c49aa458d2a48871b40ee549e754c283350e9489ed9ba919e81d70bff958f582&w=996",
+    "description": "A centrally located bakery offering a range of baked goods nad cakes. Stop by for a quick snack or to pick up some fresh cakes and pastries.",
     "duration": "mon-sun(05:30-21)",
     "address": "Zlatnih ljiljana 9, Hadžići",
-    "type": "bakery",
+    "type": "sweets",
     "location": "43.824112, 18.211805"
   }
 ]
