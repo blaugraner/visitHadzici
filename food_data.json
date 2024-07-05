@@ -1,0 +1,65 @@
+[
+  {
+    "foodName": "Caffe Macak",
+    "imageFile": "https://example.com/caffe_macak.jpg",
+    "description": "A cozy cafe offering a variety of coffee drinks, pastries, and snacks. Enjoy a relaxing atmosphere with a warm and inviting ambiance. Perfect for a casual hangout or a quick coffee break.",
+    "duration": "mon-sun(07-23)",
+    "address": "Main Street 1, Hadžići",
+    "type": "cafe",
+    "location": "43.822578, 18.206421"
+  },
+  {
+    "foodName": "Domaca Hrana Lukomir",
+    "imageFile": "https://example.com/domaca_hrana_lukomir.jpg",
+    "description": "A restaurant serving traditional Bosnian cuisine with a focus on local ingredients and homemade dishes. Experience the authentic flavors of Hadžići and the surrounding region.",
+    "duration": "mon-sun(09-22)",
+    "address": "Lukomir 10, Hadžići",
+    "type": "restaurant",
+    "location": "43.817634, 18.204862"
+  },
+  {
+    "foodName": "Pekara Igman",
+    "imageFile": "https://example.com/pekara_igman.jpg",
+    "description": "A bakery offering a wide variety of freshly baked goods. From bread and pastries to local specialties, Pekara Igman has something for everyone.",
+    "duration": "mon-sun(05-22:30)",
+    "address": "Igman Street 5, Hadžići",
+    "type": "bakery",
+    "location": "43.819893, 18.203453"
+  },
+  {
+    "foodName": "Pekara AS",
+    "imageFile": "https://example.com/pekara_as.jpg",
+    "description": "Another popular bakery in Hadžići, known for its delicious pastries, bread, and other baked treats. A must-visit for anyone with a sweet tooth.",
+    "duration": "mon-sun(06-23)",
+    "address": "Hadželi 3, Hadžići",
+    "type": "bakery",
+    "location": "43.821487, 18.207980"
+  },
+  {
+    "foodName": "Restoran AS",
+    "imageFile": "https://example.com/restoran_as.jpg",
+    "description": "A restaurant offering a mix of local and international dishes. Enjoy a meal in a comfortable setting, perfect for family gatherings or a night out with friends.",
+    "duration": "mon-sun(10-23)",
+    "address": "Magistralni put, Hadžići",
+    "type": "restaurant",
+    "location": "43.822235, 18.209057"
+  },
+  {
+    "foodName": "Fast Food MB",
+    "imageFile": "https://example.com/fast_food_mb.jpg",
+    "description": "A fast food joint offering a variety of quick and tasty meals. From burgers and fries to local fast food favorites, Fast Food MB is a great choice for a casual meal.",
+    "duration": "mon-sun(09-21)",
+    "address": "HADŽELI, Hadžići",
+    "type": "fast food",
+    "location": "43.823071, 18.210891"
+  },
+  {
+    "foodName": "Pekara Centar",
+    "imageFile": "https://example.com/pekara_centar.jpg",
+    "description": "A centrally located bakery offering a range of baked goods. Stop by for a quick snack or to pick up some fresh bread and pastries.",
+    "duration": "mon-sun(05:30-21)",
+    "address": "Zlatnih ljiljana 9, Hadžići",
+    "type": "bakery",
+    "location": "43.824112, 18.211805"
+  }
+]
