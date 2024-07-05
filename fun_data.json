@@ -1,0 +1,42 @@
+[
+  {
+    "funName": "Visit to Igman",
+    "imageFile": "https://img.freepik.com/free-photo/meadow-surrounded-by-hills-covered-bushes-trees-cloudy-sky-sunlight_181624-14881.jpg?t=st=1720196824~exp=1720200424~hmac=df2eea5bf55f6176f003ae0d54bcd41c378579c12b2b24d286d1dc3066e5f571&w=2000",
+    "description": "Experience the natural beauty and historical significance of Mount Igman. Enjoy hiking, skiing, and exploring World War II monuments in this scenic location.",
+    "duration": "4h",
+    "price": "Free",
+    "address": "Hadzici",
+    "type": "nature",
+    "location": "43.737064, 18.200084"
+  },
+  {
+    "funName": "Visit to Bjelašnica",
+    "imageFile": "https://img.freepik.com/premium-photo/aerial-view-ski-resort-with-slopes-copy-space_259348-1068.jpg?w=2000",
+    "description": "Explore the stunning landscapes of Bjelašnica Mountain. Perfect for skiing in the winter and hiking in the summer, Bjelašnica offers activities for all seasons.",
+    "duration": "5h",
+    "price": "Free",
+    "address": "Hadzici",
+    "type": "nature",
+    "location": "43.706708, 18.256394"
+  },
+  {
+    "funName": "Visit to Osenik",
+    "imageFile": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?t=st=1720196800~exp=1720200400~hmac=382e7734f0564bcbf9f90bfa1752201ae75212050166266a81b9836a6077e144&w=2000",
+    "description": "Relax and unwind at Osenik Lake. Enjoy a peaceful day by the water with opportunities for fishing, picnicking, and taking in the serene surroundings.",
+    "duration": "3h",
+    "price": "Free",
+    "address": "Hadzici",
+    "type": "leisure",
+    "location": "43.831011, 18.242313"
+  },
+  {
+    "funName": "Visit to Stublovi",
+    "imageFile": "https://img.freepik.com/premium-photo/autumn-leaves-tree_1048944-12573380.jpg?w=1060",
+    "description": "Discover the beautiful Stublovi Waterfalls. A perfect spot for nature lovers, offering scenic trails and stunning views of cascading waterfalls.",
+    "duration": "2h",
+    "price": "Free",
+    "address": "Hadzici",
+    "type": "nature",
+    "location": "43.792289, 18.210283"
+  }
+]
