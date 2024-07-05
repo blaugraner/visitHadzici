@@ -10,7 +10,7 @@
   },
   {
     "eventName": "Quad Tours Adventure",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "imageFile": "https://img.freepik.com/free-photo/quad-atv-cars-all-terrain-vehicle-parked-mountain-road_93675-134828.jpg?t=st=1720196175~exp=1720199775~hmac=826381c38578a2f22b4acf46a2c4e979c0a8bd9c0d91bef66e92c90d85a5818c&w=2000",
     "description": "Join us for an exhilarating quad tour through the rugged terrain of Hadžići. This adventure is perfect for thrill-seekers and nature lovers. Explore the scenic routes and enjoy the ride!",
     "time": "Every Saturday from June to September",
     "price": "Free",
@@ -19,7 +19,7 @@
   },
   {
     "eventName": "Youth Games 2023",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "imageFile": "https://img.freepik.com/premium-photo/children-are-playing-with-their-hands-clasped-together_73944-17621.jpg?w=2000",
     "description": "Youth Games 2023 is a fun and competitive event for the youth of Hadžići. Participate in various sports and recreational activities, including athletics, basketball, volleyball, and more. Prizes and medals await the winners!",
     "time": "15-20.7.2023.",
     "price": "Free",
@@ -27,8 +27,8 @@
     "address": "Hadželi, Hadžići"
   },
   {
-    "eventName": "Football Tournament 2023",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "eventName": "Football Tournament 2024",
+    "imageFile": "https://img.freepik.com/premium-photo/full-length-friends-soccer-field_1048944-23587126.jpg?w=1060",
     "description": "The annual Football Tournament in Hadžići brings together local teams to compete for the championship title. Join us for exciting matches, great sportsmanship, and a fantastic atmosphere.",
     "time": "5-10.8.2023.",
     "price": "Free",
@@ -37,7 +37,7 @@
   },
   {
     "eventName": "Hadžići Summer Festival",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "imageFile": "https://img.freepik.com/premium-photo/image-description-three-young-women-are-dancing-having-fun-music-festival-they-are-all-wearing-sunglasses-smiling_14117-516039.jpg?w=2000",
     "description": "Hadžići Summer Festival is a celebration of music, culture, and community. Enjoy live performances, food stalls, arts and crafts, and fun activities for all ages. A perfect way to spend the summer days with family and friends.",
     "time": "1-3.7.2023.",
     "price": "Free",
@@ -46,7 +46,7 @@
   },
   {
     "eventName": "Exhibition Match: Fat vs Skinny",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "imageFile": "https://img.freepik.com/free-photo/full-shot-men-playing-soccer_23-2150405440.jpg?t=st=1720196305~exp=1720199905~hmac=050fd38d2cf1d46cce6d4a56a5d284e2d8028df7a16debbfe2f47bbae11cd0a1&w=2000",
     "description": "Don't miss the entertaining exhibition match 'Fat vs Skinny,' where local residents compete in a friendly and humorous football game. Cheer for your favorite team and enjoy the fun!",
     "time": "20.7.2023.",
     "price": "Free",
@@ -55,7 +55,7 @@
   },
   {
     "eventName": "Cultural Societies Review",
-    "imageFile": "https://admirsi.github.io/TravnikTouristGuideWeb/itreboot_2023.webp",
+    "imageFile": "https://img.freepik.com/free-photo/people-dancing-folk-full-shot_23-2149741883.jpg?t=st=1720196443~exp=1720200043~hmac=39a28cbb35fe4622012cfddfc9cb1e828c38acbed1ce27345f2e8cb0f8df6f90&w=2000",
     "description": "The Cultural Societies Review showcases the rich cultural heritage of Hadžići. Enjoy performances by local cultural societies, including traditional music, dance, and folklore. Celebrate the diversity and artistic talent of the community.",
     "time": "10-12.8.2023.",
     "price": "Free",
