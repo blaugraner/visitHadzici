@@ -39,4 +39,35 @@
     "type": "nature",
     "location": "43.792289, 18.210283"
   }
+  {
+    "funName": "Visit to Vrelo Bosne",
+    "imageFile": "https://img.freepik.com/premium-photo/peaceful-landscapes-nature_764772-213.jpg?w=2000",
+    "description": "Enjoy a day at Vrelo Bosne, the spring of the River Bosna. Walk along the picturesque pathways, enjoy the fresh air, and experience the beauty of nature.",
+    "duration": "4h",
+    "price": "Free",
+    "address": "Ilidža",
+    "type": "nature",
+    "location": "43.822469, 18.260924"
+},
+{
+    "funName": "Visit to Igman Mountain",
+    "imageFile": "https://img.freepik.com/premium-photo/peaceful-landscapes-nature_764772-192.jpg?w=2000",
+    "description": "Explore Igman Mountain, known for its beautiful winter scenery and rich history. Ideal for skiing, hiking, and exploring the great outdoors.",
+    "duration": "6h",
+    "price": "Free",
+    "address": "Ilidža",
+    "type": "nature",
+    "location": "43.733585, 18.256492"
+},
+{
+    "funName": "Visit to Tarcin Forest Resort",
+    "imageFile": "https://img.freepik.com/premium-photo/houses-ukrainian-carpathians_651454-1701.jpg?w=996",
+    "description": "Marvel at the stunning Skakavac Waterfall. A perfect spot for hiking and nature photography, offering breathtaking views and fresh mountain air.",
+    "duration": "3h",
+    "price": "Free",
+    "address": "Sarajevo",
+    "type": "nature",
+    "location": "43.877569, 18.386333"
+}
+
 ]
