@@ -32,7 +32,7 @@
   {
     "funName": "Visit to Stublovi",
     "imageFile": "https://img.freepik.com/premium-photo/autumn-leaves-tree_1048944-12573380.jpg?w=1060",
-    "description": "Discover the beautiful Stublovi Nature park. A perfect spot for nature lovers, offering scenic trails and stunning views of beautifull nature.",
+    "description": "Discover the beautiful Stublovi Nature park. A perfect spot for nature lovers, offering scenic trails and stunning views of beautiful nature.",
     "duration": "2h",
     "price": "Free",
     "address": "Hadzici",
@@ -48,8 +48,8 @@
     "address": "Ilidža",
     "type": "nature",
     "location": "43.822469, 18.260924"
-},
-{
+  },
+  {
     "funName": "Visit to Igman Mountain",
     "imageFile": "https://img.freepik.com/premium-photo/peaceful-landscapes-nature_764772-192.jpg?w=2000",
     "description": "Explore Igman Mountain, known for its beautiful winter scenery and rich history. Ideal for skiing, hiking, and exploring the great outdoors.",
@@ -58,8 +58,8 @@
     "address": "Ilidža",
     "type": "nature",
     "location": "43.733585, 18.256492"
-},
-{
+  },
+  {
     "funName": "Visit to Tarcin Forest Resort",
     "imageFile": "https://img.freepik.com/premium-photo/houses-ukrainian-carpathians_651454-1701.jpg?w=996",
     "description": "Marvel at the stunning Skakavac Waterfall. A perfect spot for hiking and nature photography, offering breathtaking views and fresh mountain air.",
@@ -68,6 +68,5 @@
     "address": "Sarajevo",
     "type": "nature",
     "location": "43.877569, 18.386333"
-}
-
+  }
 ]
